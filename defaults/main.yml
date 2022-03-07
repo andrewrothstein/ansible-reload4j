@@ -1,0 +1,11 @@
+---
+# defaults file for reload4j
+reload4j_mirror: https://repo1.maven.org/maven2/ch/qos/reload4j/reload4j
+reload4j_ver: 1.2.19
+
+## fully qualified path to dropped jar
+## reload4j_install_jar: /usr/local/lib/log4j-1.2.17.jar
+
+reload4j_checksums:
+  # https://repo1.maven.org/maven2/ch/qos/reload4j/reload4j/1.2.19/reload4j-1.2.19.jar
+  '1.2.19': sha256:fa07aa7adedf2a65eb09007443bb60b51c725b1b5b88e481e00c529ff2d3b5b5

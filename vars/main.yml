@@ -1,0 +1,5 @@
+---
+# vars file for reload4j
+reload4j_jar: reload4j-{{ reload4j_ver }}.jar
+reload4j_url: '{{ reload4j_mirror }}/{{ reload4j_ver }}/{{ reload4j_jar }}'
+reload4j_checksum: '{{ reload4j_checksums[reload4j_ver] }}'
